@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Widezad
-- 👀 I’m interested in Cloud and software Engineer 
-- 🌱 I’m currently learning AWS Cloud Computing
+- 👀 I’m interested in Cloud and software Engineering
 - 💞️ I’m looking to collaborate on anytghing
-- 📫 How to reach me 863-614-4192
+- 📫 How to reach me Widezad@gmail.com
