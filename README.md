@@ -1,4 +1,5 @@
-<img src="![image](https://user-images.githubusercontent.com/96489451/167763365-c9b9005a-e845-4e9d-8292-e4fcaddea081.png) width="100%">
+<img src=" width="100%">
+<img width="100%" alt="githubheader" src="https://user-images.githubusercontent.com/96489451/167763486-1a5430e9-6bb3-4b4b-99fc-4f7e0194c9ce.png">
 
 
 <h1 align="center">Hi 👋, I'm Wideza</h1>
