@@ -12,83 +12,10 @@
 
 
 <h1 align="center">Projects</h1>
-<tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Meal Finder</h3>
-        <br />
-        <a target="_blank" href="#">
-            <img src="https://user-images.githubusercontent.com/96489451/167774166-d9e6d8ac-91e5-4d58-8789-3903c00c517f.png" width="100%" alt=Meal Finder App/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="#" target="_blank">
-    <img src="#"/>
-  </a>  
-  <a href="#" target="_blank">
-    <img src="#"/>
-  </a>
-      </p>
-        <p><strong>Generate a meal of the day based on cravings!</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Rigley 2: "Coming Soon"</h3>
-        <br />
-      <a target="_blank" href="#">
-            <img src="https://user-images.githubusercontent.com/96489451/167774166-d9e6d8ac-91e5-4d58-8789-3903c00c517f.png" width="100%"  alt="coming soon"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="#" target="_blank">
-    <img src="#"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="#"/>
-  </a>
-      </p>
-        <p><strong>Coming Soon.</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Widezadenis.com</h3>
-      <br />
-        <a target="_blank" href="https://www.widezadenis.com/">
-          <img src="https://user-images.githubusercontent.com/96489451/167774166-d9e6d8ac-91e5-4d58-8789-3903c00c517f.png" width="100%" alt="Portfolio"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="#" target="_blank">
-    <img src="#"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="#"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Coming Soon</h3>
-        <br />
-        <a target="_blank" href="#">
-          <img src="#" width="100%" alt="Coming Soon"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="#" target="_blank">
+
+
     <img src="https://user-images.githubusercontent.com/96489451/167774166-d9e6d8ac-91e5-4d58-8789-3903c00c517f.png" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="#"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Coming Soon</p>
-    </td>
-  </tr>
-</table>
+  
 
 
 
