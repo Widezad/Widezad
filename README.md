@@ -1,4 +1,4 @@
-<img width="847" alt="shecancodes" src="https://user-images.githubusercontent.com/96489451/167765808-884b28c5-f5be-4b19-ae39-ed0c652c96fd.png">
+<img width="100%" alt="shecancodes" src="https://user-images.githubusercontent.com/96489451/167765808-884b28c5-f5be-4b19-ae39-ed0c652c96fd.png">
 
 
 
