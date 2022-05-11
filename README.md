@@ -30,6 +30,8 @@
         </a>
         <br />
         <p align="center">
+    </td>
+</tr>
             
             
 
