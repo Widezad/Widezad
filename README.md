@@ -21,7 +21,7 @@
           <h3 align="center">Meal Finder</h3>
           <p align="center">
             <a href="https://ournextmeal.netlify.app" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/zrErx6RfZH1eIe8Hgn/giphy.gif" alt="Meal finder"/> </a>
-            <span> <a href="#" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(203,191,186)" alt="button to repository" height ="25px"></a> <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(203,191,186)?style=flat-square" alt="button to website" height="25px"></a> </span>
+            <span> <a href="#" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(203,191,186)" alt="button to repository" height ="25px"></a> <a href="https://github.com/Widezad/Meal-Finder" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(203,191,186)?style=flat-square" alt="button to website" height="25px"></a> </span>
             <p align="center">
               Generate a recipe to make dinner based on cravings.
             </p>
