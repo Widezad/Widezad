@@ -17,7 +17,7 @@
       <h3 align="center">Meal Finder</h3>
         <br />
         <a target="_blank" href="#">
-            <img src="https://user-images.githubusercontent.com/96489451/167773223-e234e0ae-d0f9-4c04-9a8f-05de119aabfe.png" width="100%" alt="meal finder"/>
+            <img src="https://user-images.githubusercontent.com/96489451/167773223-e234e0ae-d0f9-4c04-9a8f-05de119aabfe.png" width="50%" alt="meal finder"/>
         </a>
         <br />
         <p align="center">
@@ -26,7 +26,7 @@
       <h3 align="center">Coming soon"</h3>
         <br />
       <a target="_blank" href="#">
-            <img src="https://user-images.githubusercontent.com/96489451/167773223-e234e0ae-d0f9-4c04-9a8f-05de119aabfe.png" width="100%" alt="meal finder" width="100%"  alt="coming soon"/>
+            <img src="https://user-images.githubusercontent.com/96489451/167773223-e234e0ae-d0f9-4c04-9a8f-05de119aabfe.png" width="50%" alt="coming soon"/>
         </a>
         <br />
         <p align="center">
