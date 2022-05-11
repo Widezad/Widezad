@@ -10,6 +10,7 @@
 <a href="mailto:widezad@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/96489451/167771283-dffc9688-605e-47bc-b33b-d598c1e61ae2.png" alt="widezad" height="40" width="40" /></a>
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=widezad&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <h1 align="center">Projects</h1>
 
@@ -68,7 +69,7 @@
 <h1 align="center">Technologies</h1>
 <p align="center" color="rgb(203,191,186)"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/96489451/167900449-4fb57eb4-89b4-46bc-ac21-d0ebebf9dae5.png" alt="languages" width="100%"/> </a> <a
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=widezad&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 
 
