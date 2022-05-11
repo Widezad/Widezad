@@ -37,6 +37,8 @@
             </p>
           </p>
         </td>
+ </tr>
+ <tr>
   <td width="50%">
           <h3 align="center">Coming Soon</h3>
           <p align="center">
@@ -47,6 +49,7 @@
             </p>
           </p>
         </td>
+              
    <td width="50%">
           <h3 align="center">Coming Soon</h3>
           <p align="center">
