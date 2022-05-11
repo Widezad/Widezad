@@ -1,4 +1,5 @@
-<img width="100%" alt="shecancode" src="https://user-images.githubusercontent.com/96489451/167765367-e50d5294-e39d-4895-88ee-6cd69c36a995.png">
+<img width="847" alt="shecancodes" src="https://user-images.githubusercontent.com/96489451/167765808-884b28c5-f5be-4b19-ae39-ed0c652c96fd.png">
+
 
 
 <h1 align="center">Hi 👋, I'm Wideza</h1>
