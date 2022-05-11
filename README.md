@@ -4,5 +4,5 @@
 <h3 align="center">A passionate full-Stack developer from Florida, I work to create excellent, responsive websites that suits the needs and wants of my clients. I am eager to solve problems through innovative solutions and collaborations.</h3>
 
 <p align="center">
-<a href="https://twitter.com/Adxwable" target="blank"><img align="center" src="./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only" alt="adxwable" height="40" width="40" /></a>
+<a href="https://twitter.com/Adxwable" target="blank"><img align="center" src="https://codestackr.com#gh-dark-mode-only" alt="adxwable" height="40" width="40" /></a>
 
