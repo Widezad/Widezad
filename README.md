@@ -70,6 +70,7 @@
 </p>
 
  <div> <img src="https://www.codewars.com/users/Widezad/badges/large">
+ <div> <img src="https://www.codewars.com/users/Widezad/stats">
   
  
 
