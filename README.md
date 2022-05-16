@@ -69,9 +69,22 @@
 <p align="center" color="rgb(152,69,245)"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/96489451/168528109-019758f7-d067-415c-803c-76ff33a009f2.png" alt="languages" width="100%"/> </a> <a
 </p>
 
+  
  <h1 align="center">Stats</h1>
-<p align="center"> <img src="https://awesome-github-stats.azurewebsites.net/user-stats/widezadenis?cardType=github&theme=midnight-purple" > </p>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=widezadenis&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"> </p>
+ <div align="center">
+   <table>
+      <tr>
+        <td width="50%">
+            <p align="center"> <img src="https://awesome-github-stats.azurewebsites.net/user-stats/widezadenis?cardType=github&theme=midnight-purple" >               </p>
+        </td>
+       <td width="50%">
+          <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=widezadenis&theme=midnight-        purple&date_format=M%20j%5B%2C%20Y%5D"> </p>
+       </td>
+ </tr>
+ <tr>
+ </tr>
+  </table>
+</div>
 
 
   
