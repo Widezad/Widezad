@@ -71,6 +71,13 @@
 
  <!--<div> <img src="https://www.codewars.com/users/Widezad/badges/large">-->
   
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=widezad&show_icons=true&locale=en&layout=compact" alt="widezad" color="rgb(203,191,186)"/></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=widezad&show_icons=true&locale=en" alt="widezad" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=widezad&" alt="widezad" /></p>
+  
  
 
 
