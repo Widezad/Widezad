@@ -69,8 +69,8 @@
 <p align="center" color="rgb(203,191,186)"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/96489451/168526206-f6f9f978-a411-4f30-9601-63a2300c5dc3.png" alt="languages" width="100%"/> </a> <a
 </p>
 
-  
-<img src="https://awesome-github-stats.azurewebsites.net/user-stats/widezadenis?cardType=github&theme=kacho-ga" >
+ <h1 align="center">Stats</h1>
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/widezadenis?cardType=github&theme=midnight-purple" >
   
   
 
