@@ -28,10 +28,10 @@
           </p>
         </td>
       <td width="50%">
-          <h3 align="center">Coming Soon</h3>
+          <h3 align="center">Love's Ice Cream</h3>
           <p align="center">
-            <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/96489451/167774166-d9e6d8ac-91e5-4d58-8789-3903c00c517f.png" alt="project example"/> </a>
-            <span> <a href="#" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(152,69,245)" alt="button to repository" height ="25px"></a> <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(152,69,245)?style=flat-square" alt="button to website" height="25px"></a></span>
+            <a href="lovesicecream.netlify.app" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/96489451/167774166-d9e6d8ac-91e5-4d58-8789-3903c00c517f.png" alt="project example"/> </a>
+            <span> <a href="https://github.com/Widezadenis/Love-s-Ice-Cream" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(152,69,245)" alt="button to repository" height ="25px"></a> <a href="lovesicecream.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(152,69,245)?style=flat-square" alt="button to website" height="25px"></a></span>
             <p align="center">
               Coming Soon
             </p>
