@@ -70,7 +70,7 @@
 </p>
 
   
-<img src="https://awesome-github-stats.azurewebsites.net/user-stats/widezadenis?cardType=github&theme=midnight-purple" >
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/widezadenis?cardType=github&theme=kacho-ga" >
 
 
 
