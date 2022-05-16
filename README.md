@@ -1,4 +1,4 @@
-<img width="100%" alt="shecancodes" src="https://user-images.githubusercontent.com/96489451/167765808-884b28c5-f5be-4b19-ae39-ed0c652c96fd.png">
+<img width="100%" alt="shecancodes" src="https://user-images.githubusercontent.com/96489451/168524149-d623e7ba-65ab-41c3-abf7-85e27bd2d387.png">
 
 <h1 align="center">Hi 👋, I'm Wideza</h1>
 <h3 align="center">A passionate full-Stack developer from Florida, I work to create excellent, responsive websites that suits the needs and wants of my clients. I am eager to solve problems through innovative solutions and collaborations.</h3>
@@ -72,10 +72,12 @@
   
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/widezadenis?cardType=github&theme=kacho-ga" >
 
+  
 
 
   
-  
+ 
+
  
 
 
