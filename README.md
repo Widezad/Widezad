@@ -70,7 +70,7 @@
 </p>
 
  <h1 align="center">Stats</h1>
-<img src="https://awesome-github-stats.azurewebsites.net/user-stats/widezadenis?cardType=github&theme=midnight-purple" >
+<p align="center" <img src="https://awesome-github-stats.azurewebsites.net/user-stats/widezadenis?cardType=github&theme=midnight-purple" > </p>
   
   
 
