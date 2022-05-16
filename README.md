@@ -69,10 +69,8 @@
 <p align="center" color="rgb(203,191,186)"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/96489451/167900449-4fb57eb4-89b4-46bc-ac21-d0ebebf9dae5.png" alt="languages" width="100%"/> </a> <a
 </p>
 
- <!--<div> <img src="https://www.codewars.com/users/Widezad/badges/large">-->
   
-<p> <a href="[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/widezadenis?cardType=github&theme=calm)](https://git.io/awesome-stats-card)" target="_blank" rel="noreferrer">
-  </a></p>
+<img src="https://youtube-stats-card.vercel.app/api?channelid=UCpKizIKSk8ga_LCI3e3GUig&theme=faded_pink" >
 
 
 
