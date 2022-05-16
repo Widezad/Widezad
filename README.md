@@ -66,11 +66,13 @@
 
 
 <h1 align="center">Technologies</h1>
-<p align="center" color="rgb(203,191,186)"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/96489451/168526206-f6f9f978-a411-4f30-9601-63a2300c5dc3.png" alt="languages" width="100%"/> </a> <a
+<p align="center" color="rgb(203,191,186)"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/96489451/168528109-019758f7-d067-415c-803c-76ff33a009f2.png" alt="languages" width="100%"/> </a> <a
 </p>
 
  <h1 align="center">Stats</h1>
 <p align="center"> <img src="https://awesome-github-stats.azurewebsites.net/user-stats/widezadenis?cardType=github&theme=midnight-purple" > </p>
+
+
   
   
 
