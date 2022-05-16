@@ -70,7 +70,7 @@
 </p>
 
   
-<img src="https://youtube-stats-card.vercel.app/api?channelid=UCpKizIKSk8ga_LCI3e3GUig&theme=faded_pink" >
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/widezadenis?cardType=github&theme=calm" >
 
 
 
