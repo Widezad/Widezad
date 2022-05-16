@@ -71,12 +71,9 @@
 
  <!--<div> <img src="https://www.codewars.com/users/Widezad/badges/large">-->
   
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/widezadenis?cardType=octocat&theme=kacho-ga)](https://git.io/awesome-stats-card)"
+
   
-<p align="center" color="rgb(203,191,186)"><a href="#" target="_blank" rel="noreferrer"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=widezadenis&show_icons=true&locale=en&layout=compact" alt="widezadenis" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=widezadenis&show_icons=true&locale=en" alt="widezadenis" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=widezadenis&" alt="widezadenis" /></p>
   
  
 
