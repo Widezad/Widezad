@@ -71,7 +71,7 @@
 
  <!--<div> <img src="https://www.codewars.com/users/Widezad/badges/large">-->
   
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/widezadenis?cardType=octocat&theme=kacho-ga)](https://git.io/awesome-stats-card)"
+  <img src="(https://awesome-github-stats.azurewebsites.net/user-stats/widezadenis?cardType=github&theme=kacho-ga)](https://git.io/awesome-stats-card)">
 
   
   
