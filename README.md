@@ -21,7 +21,7 @@
           <h3 align="center">Meal Finder</h3>
           <p align="center">
             <a href="https://ournextmeal.netlify.app" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/zrErx6RfZH1eIe8Hgn/giphy.gif" alt="Meal finder"/> </a>
-            <span> <a href="https://github.com/Widezad/Meal-Finder" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(152,69,245)" alt="button to repository" height ="25px"></a> <a href="https://ournextmeal.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(203,191,186)?style=flat-square" alt="button to website" height="25px"></a> </span>
+            <span> <a href="https://github.com/Widezad/Meal-Finder" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(152,69,245)" alt="button to repository" height ="25px"></a> <a href="https://ournextmeal.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(152,69,245)?style=flat-square" alt="button to website" height="25px"></a> </span>
             <p align="center">
               Generate a recipe to make dinner based on cravings.
             </p>
@@ -31,7 +31,7 @@
           <h3 align="center">Coming Soon</h3>
           <p align="center">
             <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/96489451/167774166-d9e6d8ac-91e5-4d58-8789-3903c00c517f.png" alt="project example"/> </a>
-            <span> <a href="#" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(203,191,186)" alt="button to repository" height ="25px"></a> <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(152,69,245)?style=flat-square" alt="button to website" height="25px"></a></span>
+            <span> <a href="#" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(152,69,245)" alt="button to repository" height ="25px"></a> <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(152,69,245)?style=flat-square" alt="button to website" height="25px"></a></span>
             <p align="center">
               Coming Soon
             </p>
@@ -43,7 +43,7 @@
           <h3 align="center">Coming Soon</h3>
           <p align="center">
             <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/96489451/167774166-d9e6d8ac-91e5-4d58-8789-3903c00c517f.png" alt="project example"/> </a>
-            <span> <a href="#" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(203,191,186)" alt="button to repository" height ="25px"></a> <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(152,69,245)?style=flat-square" alt="button to website" height="25px"></a></span>
+            <span> <a href="#" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(152,69,245)" alt="button to repository" height ="25px"></a> <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(152,69,245)?style=flat-square" alt="button to website" height="25px"></a></span>
             <p align="center">
               Coming Soon
             </p>
@@ -54,7 +54,7 @@
           <h3 align="center">Coming Soon</h3>
           <p align="center">
             <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/96489451/167774166-d9e6d8ac-91e5-4d58-8789-3903c00c517f.png" alt="project example"/> </a>
-            <span> <a href="#" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(203,191,186)" alt="button to repository" height ="25px"></a> <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(152,69,245)?style=flat-square" alt="button to live website" height="25px"></a> </span>
+            <span> <a href="#" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(152,69,245)" alt="button to repository" height ="25px"></a> <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(152,69,245)?style=flat-square" alt="button to live website" height="25px"></a> </span>
             <p align="center">
               coming Soon
             </p>
