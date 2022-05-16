@@ -72,7 +72,7 @@
  <!--<div> <img src="https://www.codewars.com/users/Widezad/badges/large">-->
   
   
-<p align="center" color="rgb(203,191,186)"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=widezadenis&show_icons=true&locale=en&layout=compact" alt="widezadenis" /></p>
+<p align="center" color="rgb(203,191,186)"><a href="#" target="_blank" rel="noreferrer"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=widezadenis&show_icons=true&locale=en&layout=compact" alt="widezadenis" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=widezadenis&show_icons=true&locale=en" alt="widezadenis" /></p>
 
